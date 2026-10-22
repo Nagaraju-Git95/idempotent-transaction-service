@@ -1,0 +1,7 @@
+target/
+settings-personal.xml
+*.class
+*.jar
+.idea/
+*.iml
+.DS_Store
